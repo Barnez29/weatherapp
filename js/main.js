@@ -1,7 +1,4 @@
 'use strict'; //The "use strict" directive switches the engine to the “modern” mode, changing the behavior of some built-in features
-
-
-
 const cityForm = document.getElementById("city-form");
 const cityInput = document.getElementById("city");
 const weatherReport = document.getElementById("weather-report");
